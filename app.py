@@ -140,5 +140,5 @@ confidence = clf.predict_proba(sentence)[0]
 #confidence = clf.decision_function(sentence)
 print('>>>>>')
 
-print("intent: " + d[result[0]])
+print(d[result[0]])
 print(confidence[result])
