@@ -1,0 +1,722 @@
+source;target
+What do you need to sign up?;Account_Access-Open_Account
+I want to get an account with you;Account_Access-Open_Account
+Is there a minimum spend to get an account?;Account_Access-Open_Account
+Do I need to spend more than $100 to open an account?;Account_Access-Open_Account
+What do I do to join?;Account_Access-Open_Account
+Sign up process;Account_Access-Open_Account
+sign up account;Account_Access-Open_Account
+Where can I sign up?;Account_Access-Open_Account
+What do I do to open an account?;Account_Access-Open_Account
+create an account;Account_Access-Open_Account
+How can I apply for an account?;Account_Access-Open_Account
+Can I sign up for an account?;Account_Access-Open_Account
+I want to sign up;Account_Access-Open_Account
+Can I create an account with you?;Account_Access-Open_Account
+Can I open an account;Account_Access-Open_Account
+How do I join you?;Account_Access-Open_Account
+Account application;Account_Access-Open_Account
+What do you need to join?;Account_Access-Open_Account
+unknown payments on my credit card;Account_Access-Report_Fraudulent_Use
+There is fraudulent activity on my account;Account_Access-Report_Fraudulent_Use
+extra charges on my card from this company;Account_Access-Report_Fraudulent_Use
+I think my credit card number was stolen;Account_Access-Report_Fraudulent_Use
+I didn't make an order why are you charging me?;Account_Access-Report_Fraudulent_Use
+"Why was I charged $45; I didn't order";Account_Access-Report_Fraudulent_Use
+Why was my credit card charged for an order I didn't make;Account_Access-Report_Fraudulent_Use
+unknown charges to my account;Account_Access-Report_Fraudulent_Use
+someone is making fraudulent charges on my credit card;Account_Access-Report_Fraudulent_Use
+Charges I don't know about on my account;Account_Access-Report_Fraudulent_Use
+Payments on my account I don't recognize;Account_Access-Report_Fraudulent_Use
+extra charges on my account;Account_Access-Report_Fraudulent_Use
+I think my account was hacked;Account_Access-Report_Fraudulent_Use
+When will my credit card begin working?;Banking-Activate_Card
+Can you assist me in re-enabling a card via automated teller machine?;Banking-Activate_Card
+Can I initiate credit card with atm?;Banking-Activate_Card
+What should I do to setup my credit card for online payments?;Banking-Activate_Card
+I need to activate it my card;Banking-Activate_Card
+I got a new card;Banking-Activate_Card
+How long does the credit card activation takes?;Banking-Activate_Card
+I need your help for mastercard credit card activation;Banking-Activate_Card
+I want credit card activation keys;Banking-Activate_Card
+I want to activate master card by text;Banking-Activate_Card
+I want to activate my card.;Banking-Activate_Card
+I want to activate my credit card by internet banking;Banking-Activate_Card
+I want to reactive my cancelled card;Banking-Activate_Card
+I want to turn on my new visa card;Banking-Activate_Card
+Please help me with first time activation for credit card;Banking-Activate_Card
+Is pin necessary to activate a card?;Banking-Activate_Card
+What are the steps for turning on a new card?;Banking-Activate_Card
+What is the process to activate credit card after cancellation?;Banking-Activate_Card
+How to initiate a credit card?;Banking-Activate_Card
+How do I reactivate a credit card account?;Banking-Activate_Card
+add a personal identification number to my credit card;Banking-Adding_PIN
+can I get a code for my card's chip;Banking-Adding_PIN
+apply for a new personal identification number for my credit card;Banking-Adding_PIN
+how can i put a pin number on my card;Banking-Adding_PIN
+my credit card has a chip how do I get a security code for it;Banking-Adding_PIN
+can my credit card have a pin number put on it;Banking-Adding_PIN
+add a pin number to my credit card;Banking-Adding_PIN
+apply for a new pin for my credit card;Banking-Adding_PIN
+apply for a personal identification number for my card;Banking-Adding_PIN
+apply for a credit card pin;Banking-Adding_PIN
+can i apply for a personal identification number online;Banking-Adding_PIN
+can i get a personal identification number for my card;Banking-Adding_PIN
+what do i do to add a pin to my card;Banking-Adding_PIN
+make a credit card payment;Banking-Billing_Making_Payments
+how can i make credit card repayments;Banking-Billing_Making_Payments
+Can I make the monthly payment on my credit card;Banking-Billing_Making_Payments
+How do I put money on to my credit card?;Banking-Billing_Making_Payments
+How do I make payments on my credit card?;Banking-Billing_Making_Payments
+pay off my credit card;Banking-Billing_Making_Payments
+pay credit card;Banking-Billing_Making_Payments
+make repayments to my credit card;Banking-Billing_Making_Payments
+how can i make payments to my credit card;Banking-Billing_Making_Payments
+pay my credit card here;Banking-Billing_Making_Payments
+how do i pay off my card;Banking-Billing_Making_Payments
+credit card repayment;Banking-Billing_Making_Payments
+can I make repayments to my credit card;Banking-Billing_Making_Payments
+make a cc payment;Banking-Billing_Making_Payments
+make a cc repayment;Banking-Billing_Making_Payments
+How to deactivate credit?;Banking-Cancel_Card
+can you delete my account for this card;Banking-Cancel_Card
+How to cancel a credit card without hurting its score?;Banking-Cancel_Card
+terminate this line of credit;Banking-Cancel_Card
+I am not using credit card tell me how can I deactivate it;Banking-Cancel_Card
+I no longer need this credit card;Banking-Cancel_Card
+I want to know about credit deactivation process;Banking-Cancel_Card
+delete credit card;Banking-Cancel_Card
+Do not want a credit card;Banking-Cancel_Card
+no longer need the cc;Banking-Cancel_Card
+Get rid of this card;Banking-Cancel_Card
+How can I cancel my credit card?;Banking-Cancel_Card
+Cancel a card;Banking-Cancel_Card
+Details on how to apply for cancellation of credit card;Banking-Cancel_Card
+How do I close my credit card?;Banking-Cancel_Card
+Can you help me cancel this credit card?;Banking-Cancel_Card
+permanently remove this card from use;Banking-Cancel_Card
+shut down my card;Banking-Cancel_Card
+I want to raise request for deactivating my credit card;Banking-Cancel_Card
+Please assist me to revoke my credit card;Banking-Cancel_Card
+Please revoke my credit card;Banking-Cancel_Card
+Tell me the ways through which I can close my credit card;Banking-Cancel_Card
+What is the way to deactivate my credit card?;Banking-Cancel_Card
+What are the ways for closing credit card?;Banking-Cancel_Card
+What is the procedure for credit card deactivation?;Banking-Cancel_Card
+What is the process for closing credit card?;Banking-Cancel_Card
+stop using this card;Banking-Cancel_Card
+Annual charges are high hence want to cancel my credit card;Banking-Cancel_Card
+Can I cancel a credit card I just applied for?;Banking-Cancel_Card
+Can I cancel my credit card if I have some pending dues?;Banking-Cancel_Card
+I no longer want this credit card to be active;Banking-Cancel_Card
+I need to cancel this card;Banking-Cancel_Card
+i don't need my card anymore;Banking-Cancel_Card
+I do not want this credit card anymore;Banking-Cancel_Card
+i'd like to cancel my card;Banking-Cancel_Card
+I think it is time to cancel this credit card;Banking-Cancel_Card
+I am not able to curb my spendings on credit card and so I want to close it;Banking-Cancel_Card
+How to close credit card online?;Banking-Cancel_Card
+Credit card is useless to me please cancel it;Banking-Cancel_Card
+close this credit card;Banking-Cancel_Card
+close this credit account;Banking-Cancel_Card
+can i cancel my card?;Banking-Cancel_Card
+need a credit card asap;Banking-Card_Application
+do I need to go to a branch for a credit card?;Banking-Card_Application
+I want a new credit card;Banking-Card_Application
+I would like to apply for a credit card;Banking-Card_Application
+I would like a credit card;Banking-Card_Application
+I want a credit card;Banking-Card_Application
+want to apply for a credit card;Banking-Card_Application
+need a credit card immediately;Banking-Card_Application
+how do I get a credit card;Banking-Card_Application
+i want to apply for a new credit to replace my existing one;Banking-Card_Application
+I need to get a credit card;Banking-Card_Application
+can i apply online for a credit card?;Banking-Card_Application
+"I need a credit card; how do I get one?";Banking-Card_Application
+I'm looking at getting a credit card;Banking-Card_Application
+what will I do to apply for a credit card;Banking-Card_Application
+help me open credit card;Banking-Card_Application
+can i have a credit card please;Banking-Card_Application
+Can I apply for credit cards;Banking-Card_Application
+I need to apply for a credit card;Banking-Card_Application
+Can I get an application form for a credit card;Banking-Card_Application
+how do I apply for a new credit card;Banking-Card_Application
+credit card applications;Banking-Card_Application
+I want to obtain a credit card;Banking-Card_Application
+I want to get a credit card;Banking-Card_Application
+I need a credit card;Banking-Card_Application
+how do i go about getting a credit card?;Banking-Card_Application
+where do I go to get a credit card;Banking-Card_Application
+applying for a credit card;Banking-Card_Application
+apply for a personal credit card;Banking-Card_Application
+how can I obtain a credit card;Banking-Card_Application
+How do I apply for a credit card?;Banking-Card_Application
+can I apply for a credit card with no employment;Banking-Card_Eligibility
+Can everybody apply for a credit card;Banking-Card_Eligibility
+Can anybody have a credit card;Banking-Card_Eligibility
+can I apply for a credit card with a casual job;Banking-Card_Eligibility
+Do I qualify for a credit card?;Banking-Card_Eligibility
+want apply for credit card so what is the requirement;Banking-Card_Eligibility
+I am unemployed can I still get a credit card;Banking-Card_Eligibility
+Can anyone receive a credit card;Banking-Card_Eligibility
+are credit cards easy to get;Banking-Card_Eligibility
+am i allowed to apply for this card;Banking-Card_Eligibility
+am i entitled to a credit card;Banking-Card_Eligibility
+how do i know if i am eligible to apply for a credit card;Banking-Card_Eligibility
+want to apply for a credit card what is your criteria;Banking-Card_Eligibility
+Am I eligible for a credit card?;Banking-Card_Eligibility
+I want  apply i will get the credit card or not;Banking-Card_Eligibility
+Can everybody receive a credit card;Banking-Card_Eligibility
+credit card should I get;Banking-Card_Selection
+I want a credit card;Banking-Card_Selection
+difference between the credit cards;Banking-Card_Selection
+comparison of credit cards;Banking-Card_Selection
+choose a credit card;Banking-Card_Selection
+Which credit card is right for me?;Banking-Card_Selection
+help me select a credit card;Banking-Card_Selection
+do you have more credit cards;Banking-Card_Selection
+enquire about your available credit cards;Banking-Card_Selection
+What types of credit cards do you have?;Banking-Card_Selection
+credit cards i want to know some more details;Banking-Card_Selection
+do you have many credit cards;Banking-Card_Selection
+what are the different kinds of credit cards;Banking-Card_Selection
+credit card comparison;Banking-Card_Selection
+looking to see if you have a credit card that compares to the other bank;Banking-Card_Selection
+do you have a credit card for students;Banking-Card_Selection
+Can I ask about your available credit cards;Banking-Card_Selection
+choose a new credit card;Banking-Card_Selection
+which credit cards does your bank offer?;Banking-Card_Selection
+which credit cards does your bank have;Banking-Card_Selection
+which credit card will be suitable;Banking-Card_Selection
+which credit cards are available;Banking-Card_Selection
+what type of credit cards do you offer;Banking-Card_Selection
+why should I choose your credit card;Banking-Card_Selection
+What are the features of the credit cards?;Banking-Card_Selection
+what is your range of credit cards;Banking-Card_Selection
+what do you know about cards;Banking-Card_Selection
+are your credit cards any good;Banking-Card_Selection
+I'm interested in your credit cards;Banking-Card_Selection
+what makes yours the best credit card;Banking-Card_Selection
+i want to learn about credit cards;Banking-Card_Selection
+tell me about your different credit cards;Banking-Card_Selection
+what type of credit cards to you offer;Banking-Card_Selection
+What credit cards does your bank have?;Banking-Card_Selection
+Tell me about your credit cards;Banking-Card_Selection
+can you help me choose a credit card;Banking-Card_Selection
+Why should I choose your credit cards?;Banking-Card_Selection
+can you give me information about credit cards;Banking-Card_Selection
+what are the features of credit cards;Banking-Card_Selection
+what are your details on credit cards;Banking-Card_Selection
+do you have credit cards;Banking-Card_Selection
+would like to talk about credit cards;Banking-Card_Selection
+I would like to find out the cost of my credit card;Banking-Fee_Enquiry
+Where is the credit card fee information?;Banking-Fee_Enquiry
+the costs to have a card;Banking-Fee_Enquiry
+How much do you charge to my credit card?;Banking-Fee_Enquiry
+I need assistance finding my credit card fee;Banking-Fee_Enquiry
+Fee on my card;Banking-Fee_Enquiry
+Does it cost me anything to apply with your company for a credit card?;Banking-Fee_Enquiry
+the yearly cost for your credit cards;Banking-Fee_Enquiry
+How can I pay the fee of credit card?;Banking-Fee_Enquiry
+Give me more option about credit card charges;Banking-Fee_Enquiry
+credit card charges;Banking-Fee_Enquiry
+Could you provide additional information regarding card fees?;Banking-Fee_Enquiry
+Charges included in credit card;Banking-Fee_Enquiry
+Can you tell me about how much fee the bank charged for last month on my credit card?;Banking-Fee_Enquiry
+how much do your credit cards cost;Banking-Fee_Enquiry
+How much we pay for the maintenance fee?;Banking-Fee_Enquiry
+What fees and charges are there for credit cards?;Banking-Fee_Enquiry
+I want to see the costs associated with this card;Banking-Fee_Enquiry
+the costs to use your credit cards;Banking-Fee_Enquiry
+What are the fees for your credit cards;Banking-Fee_Enquiry
+Is there some charge for credit card?;Banking-Fee_Enquiry
+What are the fees?;Banking-Fee_Enquiry
+Need some help with my credit card charges/fees;Banking-Fee_Enquiry
+annual fees and charges for your cards;Banking-Fee_Enquiry
+Why have I been charged a credit card fee?;Banking-Fee_Enquiry
+fees for personal credit cards;Banking-Fee_Enquiry
+I want to know about credit card costs.;Banking-Fee_Enquiry
+What is the charge for card?;Banking-Fee_Enquiry
+What are the charges for new credit card?;Banking-Fee_Enquiry
+credit card costs;Banking-Fee_Enquiry
+ongoing credit card cost;Banking-Fee_Enquiry
+Where can I see the cost for buying the credit card?;Banking-Fee_Enquiry
+do your cards have a yearly fee;Banking-Fee_Enquiry
+do your credit cards have annual charges;Banking-Fee_Enquiry
+do you cards have fees;Banking-Fee_Enquiry
+APR for personal credit cards;Banking-General_Rate_Query
+who can i contact to talk about credit card rates;Banking-General_Rate_Query
+credit card rates at the moment;Banking-General_Rate_Query
+credit cards interest rate information;Banking-General_Rate_Query
+What are the interest rates on your credit cards?;Banking-General_Rate_Query
+how about your credit card interest rates;Banking-General_Rate_Query
+annual percentage rate credit cards;Banking-General_Rate_Query
+are your card interest rates high;Banking-General_Rate_Query
+current interest rate for credit cards;Banking-General_Rate_Query
+credit cards rate of interest;Banking-General_Rate_Query
+What are your credit card interest rates?;Banking-General_Rate_Query
+What are your credit card APR rates?;Banking-General_Rate_Query
+What is the interest rate on your credit cards?;Banking-General_Rate_Query
+tell me the annual percentage rate on your credit card;Banking-General_Rate_Query
+What credit card interest rate do you charge;Banking-General_Rate_Query
+are your APR rates low for your credit card;Banking-General_Rate_Query
+What is the APR on your credit cards?;Banking-General_Rate_Query
+credit card interest rate;Banking-General_Rate_Query
+credit card interest rate information;Banking-General_Rate_Query
+would like to know about credit card rates;Banking-General_Rate_Query
+interest rates for personal credit cards;Banking-General_Rate_Query
+I didn't get a PIN with my credit card;Banking-PIN_Issue
+A personal identification number wasn't sent with my card;Banking-PIN_Issue
+A PIN didn't come with my credit card;Banking-PIN_Issue
+I don't have my credit card PIN;Banking-PIN_Issue
+I entered the wrong chip code three times;Banking-PIN_Issue
+I entered the PIN number incorrectly three times now I'm locked out;Banking-PIN_Issue
+I exceeded my pin retries;Banking-PIN_Issue
+Where can I find out the security code for my card's chip;Banking-PIN_Issue
+I am having trouble remembering my card pin;Banking-PIN_Issue
+What should I do if I have forgotten my credit card PIN?;Banking-PIN_Issue
+cannot remember the pin on my card;Banking-PIN_Issue
+My card's secure code has been locked;Banking-PIN_Issue
+I cannot recall the personal identification number on my card;Banking-PIN_Issue
+I cannot recall my credit card PIN;Banking-PIN_Issue
+can you tell me what my card PIN is;Banking-PIN_Issue
+can you tell me my credit card personal identification number;Banking-PIN_Issue
+automatic teller machine will not accept my pin;Banking-PIN_Issue
+I can't remember my card's security code;Banking-PIN_Issue
+I forgot the chip code for my credit card;Banking-PIN_Issue
+How can I find out the chip code for my card;Banking-PIN_Issue
+I never received a pin code for my card;Banking-PIN_Issue
+I cannot remember the personal identification number on my card;Banking-PIN_Issue
+I cannot remember my card's PIN;Banking-PIN_Issue
+can i get a new card?;Banking-Replace_Card
+I want card replacement same day;Banking-Replace_Card
+What are the methods using which I can get a new card by replacing it with old one?;Banking-Replace_Card
+can i replace my card?;Banking-Replace_Card
+I need to get my card replaced;Banking-Replace_Card
+i need a new card;Banking-Replace_Card
+Where from can I issue another card?;Banking-Replace_Card
+How do I request a replacement credit card?;Banking-Replace_Card
+I need to cancel curent card and then mail me one;Banking-Replace_Card
+How do I get a card reissued?;Banking-Replace_Card
+How do I go about requesting a new card?;Banking-Replace_Card
+I need some information on how to replace credit card;Banking-Replace_Card
+I need to get a new card;Banking-Replace_Card
+I would like to know how to replace my credit card.;Banking-Replace_Card
+Replacement for banking credit card;Banking-Replace_Card
+can I get a new card to replace my old one?;Banking-Replace_Card
+Can I get info on replacing my credit card?;Banking-Replace_Card
+Can I have helpline number to ask credit card replacement?;Banking-Replace_Card
+Please take this old credit card and give me new one;Banking-Replace_Card
+Can I request a replacement for my card online?;Banking-Replace_Card
+Can you tell me how to re-issue a credit card?;Banking-Replace_Card
+ship a new card to me;Banking-Replace_Card
+can you mail me a new card;Banking-Replace_Card
+What is the cost for credit card replacement?;Banking-Replace_Card
+need a replacement;Banking-Replace_Card
+I need you to mail me a new card now;Banking-Replace_Card
+I would like to replace my cedit card please;Banking-Replace_Card
+Credit credit card replacement methods;Banking-Replace_Card
+Do I need to validate my new home address in order to get a card replacement?;Banking-Replace_Card
+Card need to be replaced as it does not work;Banking-Replace_Card
+i have damaged my credit card;Banking-Report_Damaged_Card
+my card is badly worn out;Banking-Report_Damaged_Card
+my card snapped in half;Banking-Report_Damaged_Card
+I want to opt for the replacement of my card as it has worn out;Banking-Report_Damaged_Card
+My credit card is scratched. What should I do?;Banking-Report_Damaged_Card
+the chip in my current card is faulty;Banking-Report_Damaged_Card
+on my credit card i cant read the csc?;Banking-Report_Damaged_Card
+my card is in poor condition;Banking-Report_Damaged_Card
+the back of my credit card has become unreadable;Banking-Report_Damaged_Card
+plastic coating is starting to come unstuck on my credit card;Banking-Report_Damaged_Card
+My credit card is breaking. What should I do?;Banking-Report_Damaged_Card
+magnetic strip worn on my credit card;Banking-Report_Damaged_Card
+Please substitute a new card for the worn-out one;Banking-Report_Damaged_Card
+My credit card has been damaged;Banking-Report_Damaged_Card
+the magnetic strip on my credit card is malfunctioning;Banking-Report_Damaged_Card
+What should I do if my credit card is damaged?;Banking-Report_Damaged_Card
+my debit card has a crack in it and I need a new one;Banking-Report_Damaged_Card
+my card is broken;Banking-Report_Damaged_Card
+my card has a crack in it;Banking-Report_Damaged_Card
+my credit card is cracked;Banking-Report_Damaged_Card
+I have snapped my credit card;Banking-Report_Damaged_Card
+my card is broken and doesn't work;Banking-Report_Damaged_Card
+my credit card is damaged;Banking-Report_Damaged_Card
+I broke my card and need another one;Banking-Report_Damaged_Card
+my credit card has been faded;Banking-Report_Damaged_Card
+My credit card has been broken;Banking-Report_Damaged_Card
+I'm having issues with swiping with my credit card;Banking-Report_Damaged_Card
+my card does not swipe anymore;Banking-Report_Damaged_Card
+I have no idea where I placed my debit card;Banking-Report_Lost_Card
+I need assistance as I've lost my credit card;Banking-Report_Lost_Card
+I would like to know what to do if I lose my credit card;Banking-Report_Lost_Card
+Is there any charge for registering a complaint for credit card loss?;Banking-Report_Lost_Card
+I don't know where my card is;Banking-Report_Lost_Card
+I lost me card and I need to replace it right now please;Banking-Report_Lost_Card
+I lost my card and need a new one;Banking-Report_Lost_Card
+What steps can I take when I lose my credit card?;Banking-Report_Lost_Card
+What is the way to report a lost card?;Banking-Report_Lost_Card
+What if I lose the card?;Banking-Report_Lost_Card
+What are the options with the card loss?;Banking-Report_Lost_Card
+I lost my wallet and I don't think I am going to find it so I need a new card;Banking-Report_Lost_Card
+My cc has been lost;Banking-Report_Lost_Card
+help me protect my account I lost my credit card;Banking-Report_Lost_Card
+can't find my wallet;Banking-Report_Lost_Card
+I lost my credit card;Banking-Report_Lost_Card
+i lost my card;Banking-Report_Lost_Card
+i lost my wallet;Banking-Report_Lost_Card
+can't find my card;Banking-Report_Lost_Card
+My credit card is lost how should I cancel it;Banking-Report_Lost_Card
+i just lost my card;Banking-Report_Lost_Card
+problem I lost my card;Banking-Report_Lost_Card
+my card is missing;Banking-Report_Lost_Card
+left my card in the uber;Banking-Report_Lost_Card
+left my card in a taxi;Banking-Report_Lost_Card
+What steps should be taken in the event of a missing credit card?;Banking-Report_Lost_Card
+I misplaced my card this weekend;Banking-Report_Lost_Card
+Can I lock my credit card until I find it?;Banking-Report_Lost_Card
+Help! I left my credit card with my purse in the taxi and I'm afraid someone's gonna use it;Banking-Report_Lost_Card
+How do I file for a missing card?;Banking-Report_Lost_Card
+How much is the charge for a lost card?;Banking-Report_Lost_Card
+I have lost my credit card and I want to deactivate it;Banking-Report_Lost_Card
+my card was stolen;Banking-Report_Stolen_Card
+Someone took my card!;Banking-Report_Stolen_Card
+How do I report the theft of my credit card?;Banking-Report_Stolen_Card
+What is the procedure to report stolen card?;Banking-Report_Stolen_Card
+How do I go about reporting a card theft?;Banking-Report_Stolen_Card
+How can I cancel my credit card which was stolen?;Banking-Report_Stolen_Card
+someone took my card;Banking-Report_Stolen_Card
+How do I report my credit card being stolen?;Banking-Report_Stolen_Card
+"I think my last may have been stolen; I need to replace it";Banking-Report_Stolen_Card
+"I think my last card may have been stolen; I need to replace it";Banking-Report_Stolen_Card
+I need a copy of my card agreement;Banking-Request_Card_Member_Agreement
+I never got the cardmember agreement. can you post/email me?;Banking-Request_Card_Member_Agreement
+I need information about cardholder member agreement. please help with the same;Banking-Request_Card_Member_Agreement
+Does my card member agreement give all information about charges on credit card?;Banking-Request_Card_Member_Agreement
+Looking for my credit card account agreement;Banking-Request_Card_Member_Agreement
+Looking for credit card member agreement;Banking-Request_Card_Member_Agreement
+It would be great if you help me with cardholder member agreement;Banking-Request_Card_Member_Agreement
+Do I need to sign card member agreement?;Banking-Request_Card_Member_Agreement
+Do I have to fill out a new member agreement for a replaced card?;Banking-Request_Card_Member_Agreement
+Can you tell me how can I request card holder agreement?;Banking-Request_Card_Member_Agreement
+I want pdf of cardmember agreement;Banking-Request_Card_Member_Agreement
+Can I see the agreement?;Banking-Request_Card_Member_Agreement
+How will I get card member agreement on email?;Banking-Request_Card_Member_Agreement
+What are arbitration clauses in cardmember agreement?;Banking-Request_Card_Member_Agreement
+When I will receive credit member agreement?;Banking-Request_Card_Member_Agreement
+Who do I contact for card member agreement?;Banking-Request_Card_Member_Agreement
+Will it cost me to receive a copy of the card holder agreement?;Banking-Request_Card_Member_Agreement
+How soon will you tell me about modifications made to the bank card agreement?;Banking-Request_Card_Member_Agreement
+Will there be a new card member agreement for my renewed card?;Banking-Request_Card_Member_Agreement
+How can I request card holder agreement?;Banking-Request_Card_Member_Agreement
+Can you please send me some checks?;Banking-Request_Checkbook
+I want to know my check book request status;Banking-Request_Checkbook
+Can I order checkbook thru this chat window?;Banking-Request_Checkbook
+Can I check the status of my check book request?;Banking-Request_Checkbook
+I need assistance on getting check book;Banking-Request_Checkbook
+What are charges for a new checkbook?;Banking-Request_Checkbook
+Is it possible for me to receive a checkbook?;Banking-Request_Checkbook
+Please give me the information on how to request the check-book;Banking-Request_Checkbook
+Can you tell me some options about check book issue?;Banking-Request_Checkbook
+Could you help me get a checkbook?;Banking-Request_Checkbook
+Do you have check book request details?;Banking-Request_Checkbook
+Do you issue check books?;Banking-Request_Checkbook
+Help with check requisition;Banking-Request_Checkbook
+How do I receive a new copy of my check book?;Banking-Request_Checkbook
+How to get another check book?;Banking-Request_Checkbook
+I want to apply for a checkbook;Banking-Request_Checkbook
+I'm all outta checks;Banking-Request_Checkbook
+I'm calling for help in ordering a new checkbook please.;Banking-Request_Checkbook
+What is helpline number for requesting checkbook?;Banking-Request_Checkbook
+What is the option for check book renewal?;Banking-Request_Checkbook
+What are the steps involved in increasing credit line?;Banking-Request_Increase_In_Credit_Line
+Where do I request a credit increase?;Banking-Request_Increase_In_Credit_Line
+Who approves the credit limit extension?;Banking-Request_Increase_In_Credit_Line
+How do I raise credit card limit?;Banking-Request_Increase_In_Credit_Line
+How can I add limit to credit card?;Banking-Request_Increase_In_Credit_Line
+How often does bank increase credit limit?;Banking-Request_Increase_In_Credit_Line
+Does my credit card usage have impact on increasing the credit line?;Banking-Request_Increase_In_Credit_Line
+Can you extend my current card limitation?;Banking-Request_Increase_In_Credit_Line
+How to apply for increase in credit limit?;Banking-Request_Increase_In_Credit_Line
+Credit bump;Banking-Request_Increase_In_Credit_Line
+Requesting you to remove credit restrictions;Banking-Request_Increase_In_Credit_Line
+There is a hospital emergency. can you increase my credit limit;Banking-Request_Increase_In_Credit_Line
+I am not getting on how to increase credit limit;Banking-Request_Increase_In_Credit_Line
+I need to change my credit card limit;Banking-Request_Increase_In_Credit_Line
+I want to know about credit limitation;Banking-Request_Increase_In_Credit_Line
+I want to submit my latest salary slip to enhance my credit card limit;Banking-Request_Increase_In_Credit_Line
+I would like to have a bigger credit line;Banking-Request_Increase_In_Credit_Line
+I'd like a higher credit ceiling please;Banking-Request_Increase_In_Credit_Line
+Upgrade credit limit;Banking-Request_Increase_In_Credit_Line
+What are the methods with which I can improve my credit line?;Banking-Request_Increase_In_Credit_Line
+From where should I sign up for direct deposit;Banking-Set_Up_Direct_Deposit
+Can you deposit my salary right into my account?;Banking-Set_Up_Direct_Deposit
+What are steps for setting up direct deposit?;Banking-Set_Up_Direct_Deposit
+What are ways for setting up direct deposit?;Banking-Set_Up_Direct_Deposit
+What is process to setup direct deposit?;Banking-Set_Up_Direct_Deposit
+Can I set up a direct deposit without a checkbook?;Banking-Set_Up_Direct_Deposit
+I have query regarding process of direct deposit;Banking-Set_Up_Direct_Deposit
+How to sign up for direct deposit?;Banking-Set_Up_Direct_Deposit
+What all details I need to fill direct deposit form?;Banking-Set_Up_Direct_Deposit
+Set up direct deposit;Banking-Set_Up_Direct_Deposit
+What is the way to do direct deposit?;Banking-Set_Up_Direct_Deposit
+When setting up direct deposit what does deposit type mean?;Banking-Set_Up_Direct_Deposit
+Where is option of direct deposit in net banking?;Banking-Set_Up_Direct_Deposit
+Please guide me with direct deposit process;Banking-Set_Up_Direct_Deposit
+I want to ask about direct deposit;Banking-Set_Up_Direct_Deposit
+Can you mail me the direct deposit form to my residential address?;Banking-Set_Up_Direct_Deposit
+Does the mobile app offer direct deposit?;Banking-Set_Up_Direct_Deposit
+Show me process to setup direct deposit;Banking-Set_Up_Direct_Deposit
+How do I setup direct deposit?;Banking-Set_Up_Direct_Deposit
+How to use on-line banking for direct credit?;Banking-Set_Up_Direct_Deposit
+can i switch credit cards;Banking-Switch_Cards
+switch to another bank credit card;Banking-Switch_Cards
+change credit card type;Banking-Switch_Cards
+can I upgrade my credit card to a different card;Banking-Switch_Cards
+can i change credit cards;Banking-Switch_Cards
+I signed up for the wrong card can I change to a different credit card;Banking-Switch_Cards
+I applied for a wrong credit card and now want to change to an other card;Banking-Switch_Cards
+change credit card without applying again;Banking-Switch_Cards
+"made a mistake; wanted a different credit card";Banking-Switch_Cards
+can i change my existing credit card;Banking-Switch_Cards
+can i switch between credit cards;Banking-Switch_Cards
+can i transfer to a low rate credit card;Banking-Switch_Cards
+cancel my current credit card and replace it with another;Banking-Switch_Cards
+cancel this credit card and get another one;Banking-Switch_Cards
+can my card to be upgraded to a chip;Banking-Switch_Cards
+already have a card but want to convert it;Banking-Switch_Cards
+can my card be transferred to another credit card;Banking-Switch_Cards
+can i change my card to a visa;Banking-Switch_Cards
+can i change my card to a mastercard;Banking-Switch_Cards
+can i change my card to american express;Banking-Switch_Cards
+I want a better credit card than my current credit card;Banking-Switch_Cards
+already have a card want a different one;Banking-Switch_Cards
+already have a card want a better one;Banking-Switch_Cards
+Can I change my credit card?;Banking-Switch_Cards
+I am already a customer but I want a different credit card;Banking-Switch_Cards
+can I have a balance transfer to a different card;Banking-Switch_Cards
+change from one credit card to another credit card;Banking-Switch_Cards
+change credit card without filling an application;Banking-Switch_Cards
+Can I apply for a credit card product switch;Banking-Switch_Cards
+Transfer to checking;Banking-Transfer_Money
+Please walk me through the process of wire transfer;Banking-Transfer_Money
+I need support for international bank transfer;Banking-Transfer_Money
+Can you please help me with wire transaction?;Banking-Transfer_Money
+I wand to send a wire is it secure and convenient;Banking-Transfer_Money
+How can I transfer funds electronically?;Banking-Transfer_Money
+Which is the external money transfer maximum limit?;Banking-Transfer_Money
+Transfer to outside account on app;Banking-Transfer_Money
+What are the options to move money to outside bank account?;Banking-Transfer_Money
+When will the beneficiary receive the wire transferred money?;Banking-Transfer_Money
+What is the daily limit to transfer money to some other bank?;Banking-Transfer_Money
+Where are the internal money transfer option in mobile application?;Banking-Transfer_Money
+How do I add payee to my external account lists?;Banking-Transfer_Money
+Where can I do a wire exchange?;Banking-Transfer_Money
+Could you please tell me how to transfer money?;Banking-Transfer_Money
+Could you please assist me with transferring funds?;Banking-Transfer_Money
+Can I send my sister some money?;Banking-Transfer_Money
+How do I set up recurring external transfers?;Banking-Transfer_Money
+How much overseas wires fund charge?;Banking-Transfer_Money
+I want to transfer some amount to another account within the same bank;Banking-Transfer_Money
+How can one get account activities details of his a/c?;Banking_View_Activity
+How much interest amount deposited last month in my account?;Banking_View_Activity
+Can I get statement for account activities in past 10 days?;Banking_View_Activity
+Help me get all the information about all activities of all my checking accounts;Banking_View_Activity
+Where to view my account transaction history for my checking account?;Banking_View_Activity
+When was the levy order processed for my checking account?;Banking_View_Activity
+What is the amount of interest that got credited to my a/c?;Banking_View_Activity
+View activities;Banking_View_Activity
+Transaction history;Banking_View_Activity
+Show activities;Banking_View_Activity
+See transactions;Banking_View_Activity
+Please tell me account activities detail;Banking_View_Activity
+Places where account activity history can be found;Banking_View_Activity
+I would like to see any recent activity on my account before the interest got added;Banking_View_Activity
+I want someone to help me see account activity and summary for every activity of my account;Banking_View_Activity
+How do I access checking account activity information?;Banking_View_Activity
+Help with viewing activity that take place in an a/c;Banking_View_Activity
+From where did I get the latest credit in my account;Banking_View_Activity
+Do you know about account activities of my checking account?;Banking_View_Activity
+I wanna check my account summary;Banking_View_Activity
+How do I review my credit charges awaiting confirmation?;Banking-View_Pending_Charges
+Pending items;Banking-View_Pending_Charges
+Please tell me about the pending charges against me;Banking-View_Pending_Charges
+What should I know about pending charges on my credit card?;Banking-View_Pending_Charges
+What are the charges for my credit card which are yet to be approved?;Banking-View_Pending_Charges
+How to get credit card's pending charges on-line?;Banking-View_Pending_Charges
+How can I access credit card pending payments?;Banking-View_Pending_Charges
+Can you show me where I can see any upcoming charges levied on my credit card account?;Banking-View_Pending_Charges
+Can you give me information about the outstanding charges on my credit card?;Banking-View_Pending_Charges
+Can you show me where I can find my charges that have not yet gone through?;Banking-View_Pending_Charges
+Any outstanding charges;Banking-View_Pending_Charges
+Where can I go over my recent charges pending approval?;Banking-View_Pending_Charges
+I would like to know about my pending charges;Banking-View_Pending_Charges
+I'd like to learn more about the pending charges of my credit card;Banking-View_Pending_Charges
+Is there any information for credit card with pending charges?;Banking-View_Pending_Charges
+Show pending;Banking-View_Pending_Charges
+Can I get some info related to pending charges for my credit card using mobile application?;Banking-View_Pending_Charges
+I want to know about credit card pending charge;Banking-View_Pending_Charges
+I need pending charges for card;Banking-View_Pending_Charges
+How to view unsettled charges with my credit card?;Banking-View_Pending_Charges
+How to locate bank routing number?;Banking-View_Routing_Number
+Is the bank account number same as the routing number?;Banking-View_Routing_Number
+What is the aba routing number for your bank?;Banking-View_Routing_Number
+Where can I find my bank routing numbers for money transfer?;Banking-View_Routing_Number
+Where can I find my routing id?;Banking-View_Routing_Number
+Where can I see my routing id?;Banking-View_Routing_Number
+Where do I locate my routing number on site please?;Banking-View_Routing_Number
+Where do I see the routing no?;Banking-View_Routing_Number
+Where is routing number need to find on check?;Banking-View_Routing_Number
+Can you tell my routing number in this chat window?;Banking-View_Routing_Number
+How to search bank routing numbers?;Banking-View_Routing_Number
+How to view international bank transfer routing number?;Banking-View_Routing_Number
+I need to find my routing number of my bank account online.;Banking-View_Routing_Number
+Find a routing number without checks;Banking-View_Routing_Number
+What is an aba routing number and how do I find it?;Banking-View_Routing_Number
+I want to make international transaction so I need routing number for that;Banking-View_Routing_Number
+How do I know the routing number?;Banking-View_Routing_Number
+Where is the routing transit number located?;Banking-View_Routing_Number
+May I know the routing number?;Banking-View_Routing_Number
+What swift code and aba routing number I should use to wire transfer fund from foreign country?;Banking-View_Routing_Number
+what is the toll free number;Business_Information-Phone_Number
+what is your number;Business_Information-Phone_Number
+what is the service number;Business_Information-Phone_Number
+I want to call you;Business_Information-Phone_Number
+what is the enquiries line;Business_Information-Phone_Number
+do you have a direct line to your boston office;Business_Information-Phone_Number
+do you have a 1-800 number;Business_Information-Phone_Number
+can i call direct to your stores;Business_Information-Phone_Number
+can i call directly to your sydney store;Business_Information-Phone_Number
+do you have a phone number;Business_Information-Phone_Number
+do you have a number I can call;Business_Information-Phone_Number
+do you have a toll free number;Business_Information-Phone_Number
+what is the phone line I can call;Business_Information-Phone_Number
+what is the customer service number;Business_Information-Phone_Number
+do you have a 1 800 number ?;Business_Information-Phone_Number
+what number can I call for los angeles;Business_Information-Phone_Number
+what is your phone number;Business_Information-Phone_Number
+what is the phone number for your store;Business_Information-Phone_Number
+how can i call your new york store;Business_Information-Phone_Number
+what is your customer support line;Business_Information-Phone_Number
+what is your support phone number;Business_Information-Phone_Number
+do you have a 1-888 number;Business_Information-Phone_Number
+what is the number for your new york location;Business_Information-Phone_Number
+What is the phone number for customer service?;Business_Information-Phone_Number
+how do i get to the page;Business_Information-Website_Pages
+how do I find the web page;Business_Information-Website_Pages
+I don't see a link anywhere;Business_Information-Website_Pages
+I can't find the URL;Business_Information-Website_Pages
+I can't find the page;Business_Information-Website_Pages
+what is the URL for the page;Business_Information-Website_Pages
+I can't find the link;Business_Information-Website_Pages
+your link is missing;Business_Information-Website_Pages
+your page is missing;Business_Information-Website_Pages
+how do i find the link;Business_Information-Website_Pages
+where is the page;Business_Information-Website_Pages
+where is your Partners page;Business_Information-Website_Pages
+how do I find the URL;Business_Information-Website_Pages
+where is the accounts page;Business_Information-Website_Pages
+where is your products page;Business_Information-Website_Pages
+I can't click on a link;Business_Information-Website_Pages
+you should provide a link to the page;Business_Information-Website_Pages
+the link isn't there;Business_Information-Website_Pages
+where is the link;Business_Information-Website_Pages
+what's the page URL;Business_Information-Website_Pages
+is your web page missing;Business_Information-Website_Pages
+you are annoying;General_Conversation-Feedback_Negative
+this is trash;General_Conversation-Feedback_Negative
+I do not like you;General_Conversation-Feedback_Negative
+you are bad;General_Conversation-Feedback_Negative
+This is useless;General_Conversation-Feedback_Negative
+This thing is rubbish;General_Conversation-Feedback_Negative
+You are rubbish;General_Conversation-Feedback_Negative
+You are useless;General_Conversation-Feedback_Negative
+i hate this;General_Conversation-Feedback_Negative
+you did not answer the question;General_Conversation-Feedback_Negative
+You are talking rubbish;General_Conversation-Feedback_Negative
+you are not smart;General_Conversation-Feedback_Negative
+you are good for nothing;General_Conversation-Feedback_Negative
+you let me down;General_Conversation-Feedback_Negative
+i hate you;General_Conversation-Feedback_Negative
+you are repetitive;General_Conversation-Feedback_Negative
+you are repeating yourself;General_Conversation-Feedback_Negative
+you irritate me;General_Conversation-Feedback_Negative
+you are horrible;General_Conversation-Feedback_Negative
+i like this;General_Conversation-Feedback_Positive
+i like you;General_Conversation-Feedback_Positive
+you are doing quite well;General_Conversation-Feedback_Positive
+you are doing really well;General_Conversation-Feedback_Positive
+you are really smart;General_Conversation-Feedback_Positive
+this is fantastic;General_Conversation-Feedback_Positive
+you sound good;General_Conversation-Feedback_Positive
+You are good;General_Conversation-Feedback_Positive
+You are one of the coolest;General_Conversation-Feedback_Positive
+you are fabulous;General_Conversation-Feedback_Positive
+you rock;General_Conversation-Feedback_Positive
+you are intelligent;General_Conversation-Feedback_Positive
+that was a great answer;General_Conversation-Feedback_Positive
+you are mesmerizing;General_Conversation-Feedback_Positive
+how cool is this;General_Conversation-Feedback_Positive
+You really are good;General_Conversation-Feedback_Positive
+you are awesome;General_Conversation-Feedback_Positive
+this is great;General_Conversation-Feedback_Positive
+this is cool;General_Conversation-Feedback_Positive
+are you doing alright;General_Conversation-VA_State
+how is your day going;General_Conversation-VA_State
+how are you feeling;General_Conversation-VA_State
+how goes it;General_Conversation-VA_State
+how you doing;General_Conversation-VA_State
+how are things with you;General_Conversation-VA_State
+how are you this evening;General_Conversation-VA_State
+have you been well;General_Conversation-VA_State
+How are you?;General_Conversation-VA_State
+are you fine;General_Conversation-VA_State
+everything is ok?;General_Conversation-VA_State
+how is everything;General_Conversation-VA_State
+how is yourself;General_Conversation-VA_State
+have you been good;General_Conversation-VA_State
+is everything alright;General_Conversation-VA_State
+how was your day;General_Conversation-VA_State
+how you going;General_Conversation-VA_State
+I would like to chat to a human please.;Help-Connect_to_Agent
+May I speak with somebody?;Help-Connect_to_Agent
+Where are the actual people?;Help-Connect_to_Agent
+I want to talk to a customer service representative please.;Help-Connect_to_Agent
+transfer me to someone real;Help-Connect_to_Agent
+talk to a human;Help-Connect_to_Agent
+need help from a real person;Help-Connect_to_Agent
+give me a person;Help-Connect_to_Agent
+can I be connected to a real person;Help-Connect_to_Agent
+can i talk to someone who is real;Help-Connect_to_Agent
+i want a human to help;Help-Connect_to_Agent
+need someone real;Help-Connect_to_Agent
+talk to an actual person;Help-Connect_to_Agent
+i want a live agent;Help-Connect_to_Agent
+transfer me to a person;Help-Connect_to_Agent
+give me a human agent;Help-Connect_to_Agent
+transfer me to a live agent;Help-Connect_to_Agent
+I would like to talk to a manager;Help-Connect_to_Agent
+i want to talk to someone real;Help-Connect_to_Agent
+connect me with a real person;Help-Connect_to_Agent
+I want to talk to a live person;Help-Connect_to_Agent
+real person;Help-Connect_to_Agent
+can you connect me to a person;Help-Connect_to_Agent
+Can you connect me with an humant agent?;Help-Connect_to_Agent
+What do I get with the loyalty program?;Loyalty_Program-Program_Enquiry
+Loyalty program eligibility;Loyalty_Program-Program_Enquiry
+loyalty program what can you tell me about it;Loyalty_Program-Program_Enquiry
+explain your loyalty program;Loyalty_Program-Program_Enquiry
+How can I join the loyalty program?;Loyalty_Program-Program_Enquiry
+What can I get for my rewards points?;Loyalty_Program-Program_Enquiry
+Do you give rewards points?;Loyalty_Program-Program_Enquiry
+What about your loyalty program;Loyalty_Program-Program_Enquiry
+Do I need to buy something each month for the loyalty program?;Loyalty_Program-Program_Enquiry
+What is the value for my rewards points?;Loyalty_Program-Program_Enquiry
+what kind of rewards?;Loyalty_Program-Program_Enquiry
+does the loyalty program give me discounts;Loyalty_Program-Program_Enquiry
+loyalty program info;Loyalty_Program-Program_Enquiry
+what are the benfits of the loyalty program;Loyalty_Program-Program_Enquiry
+is there a minimum spend for the loyalty program;Loyalty_Program-Program_Enquiry
+Can I find out about the loyalty program?;Loyalty_Program-Program_Enquiry
+Do you have a loyalty program?;Loyalty_Program-Program_Enquiry
+do I need to spend more than $100 for the loyalty program;Loyalty_Program-Program_Enquiry
+can I join your loyalty progrem;Loyalty_Program-Program_Enquiry
